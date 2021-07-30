@@ -17,7 +17,7 @@
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [4.1]: https://github.com/luvksahu/lksahu/blob/915626eb5d347ed22ca45e31111e9288d10de3e2/Insta.png (instagram icon with padding)
-[5.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[5.1]: https://github.com/luvksahu/lksahu/blob/f2fbcd7fb95ba956baae996a09d79a5dab5368c8/logo/github1.png (github icon with padding)
 
 [1]: https://mobile.twitter.com/Luvsahu9
 [2]: https://www.facebook.com/luvkumar.sahu/
