@@ -2,7 +2,9 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Java development
-- 📫 How to reach me
+- 📫 How to reach me 
+- Gmail : Lksahu365@gmail.com
+- Connect with me:
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
