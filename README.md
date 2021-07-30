@@ -19,12 +19,12 @@
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
+[1]: https://mobile.twitter.com/Luvsahu9
+[2]: https://www.facebook.com/luvkumar.sahu/
 [3]: https://plus.google.com/+CarlSednaoui
 [4]: http://carlsed.tumblr.com
 [5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
+[6]: https://github.com/lksahu
 lksahu/lksahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
