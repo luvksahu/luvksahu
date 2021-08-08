@@ -21,7 +21,7 @@
 
 [1]: https://mobile.twitter.com/Luvsahu9
 [2]: https://www.facebook.com/luvkumar.sahu/
-[3]: lksahuji365@gmail.com
+[3]: mailto:lksahuji365@gmail.com
 [4]: https://www.instagram.com/luv_k_sahu/
 [5]: https://github.com/luvksahu
 lksahu/lksahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
