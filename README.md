@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/luvksahu](https://github.com/luvksahu)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/luvksahu)
 
 - 💬 Ask me about **Java, MySql, HTML5, CSS,CP**
 
