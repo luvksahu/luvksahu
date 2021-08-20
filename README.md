@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👯 I’m looking to collaborate on **DSA**
+- 👯 I’m looking to collaborate on **Web Development**
 
 - 🤝 I’m looking for help with **DSA**
 
