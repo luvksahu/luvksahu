@@ -1,5 +1,6 @@
-# [Luv Kumar Sahu](https://sites.google.com/view/luv-kumar-sahu/home)
-<h1 align="center">Hi 👋, I'm Luv Kumar Sahu</h1>
+<!--# [Luv Kumar Sahu](https://sites.google.com/view/luv-kumar-sahu/home)-->
+<!--<h1 align="center">Hi 👋, I'm Luv Kumar Sahu</h1>-->
+# Hi 👋, [I'm Luv Kumar Sahu](https://sites.google.com/view/luv-kumar-sahu/home)
 <h3 align="center">I am a coding enthusiast. Who is looking to contribute in open source Java, HTML, JavaScript</h3>
 <h5 align="center">If you like my profile then star mark this repository and also you can fork or clone it, and edit README to your own.</h5>
   
