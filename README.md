@@ -59,6 +59,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luvksahu&show_icons=true&locale=en" alt="luvksahu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luvksahu&" alt="luvksahu" /></p>
-
-![](https://activity-graph.herokuapp.com/graph?username=luvksahu&theme=github)
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=luvksahu&theme=github" alt="luvksahu" /></p>
+<!--![](https://activity-graph.herokuapp.com/graph?username=luvksahu&theme=github)-->
 
