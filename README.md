@@ -5,7 +5,7 @@
 <!--# Hello 👋, [I'm Luv Kumar Sahu](https://sites.google.com/view/luv-kumar-sahu/home)-->
 
 <h3 align="center">I am a coding enthusiast. Who is looking to contribute in open source Java, HTML, JavaScript</h3>
-<h5 align="center">If you like my profile then star mark this repository and also you can fork and clone it, and edit README to your own.</h5>
+<h5 align="center">If you like my profile then star this repository and also you can fork and clone it, and edit README to your own.</h5>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luvksahu&label=Profile%20views&color=0e75b6&style=flat" alt="luvksahu" /> </p>
 
@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👯 I’m looking to collaborate on **Web Development**
+<!-- - 👯 I’m looking to collaborate on **Web Development** -->
 
 - 🤝 I’m looking for help with **DSA**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/luvksahu)
 
-- 💬 Ask me about **Java, MySql, HTML5, CSS,CP**
+<!-- - 💬 Ask me about **Java, MySql, HTML5, CSS,CP** -->
 
 - 📫 How to reach me **lksahuji365@gmail.com**
 
@@ -58,9 +58,11 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>  </div>
 
-## 😂 Here is a random joke that'll make you laugh!
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">My GitHub's Stats</h2>
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luvksahu&show_icons=true&locale=en&layout=compact" alt="luvksahu" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luvksahu&show_icons=true&locale=en" alt="luvksahu" /></p>
@@ -68,5 +70,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luvksahu&" alt="luvksahu" /></p>
 
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=luvksahu&theme=github" alt="luvksahu" /></p>
+
+## 😂 Here is a random joke that'll make you laugh!
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--![](https://activity-graph.herokuapp.com/graph?username=luvksahu&theme=github)-->
 
