@@ -4,9 +4,13 @@
 
 <!--# Hello 👋, [I'm Luv Kumar Sahu](https://sites.google.com/view/luv-kumar-sahu/home)-->
 
-<h3 align="center">I am a coding enthusiast. Who is looking to contribute in open source Java, HTML, JavaScript</h3>
-<h5 align="center">If you like my profile then star this repository and also you can fork and clone it, and edit README to your own.</h5>
-  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=ff1100&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Java+Programmer;Loves+to+play+with+Android+Studio;Java+HTML+CSS+JS) 
+
+<!-- <h3 align="center">I am a coding enthusiast. Who is looking to contribute in open source Java, HTML, JavaScript</h3> -->
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luvksahu&label=Profile%20views&color=0e75b6&style=flat" alt="luvksahu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/luv_k_sahu" target="blank"><img src="https://img.shields.io/twitter/follow/luv_k_sahu?logo=twitter&style=for-the-badge" alt="luv_k_sahu" /></a> </p>
@@ -94,3 +98,4 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--![](https://activity-graph.herokuapp.com/graph?username=luvksahu&theme=github)-->
 
+<h5 align="center">Hello!!👋👋 Happy to have you here! If you liked my profile then leave a star, fork this repository and modify it for yourself!</h5>
