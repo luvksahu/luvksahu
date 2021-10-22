@@ -4,7 +4,7 @@
 
 <!--# Hello 👋, [I'm Luv Kumar Sahu](https://sites.google.com/view/luv-kumar-sahu/home)-->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=ff1100&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Java+Programmer;Loves+to+play+with+Android+Studio;Java+HTML+CSS+JS) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=ff1100&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Java+Programmer;Loves+to+play+with+Android+Studio;FrontEnd+Developer;Java+HTML+CSS+JS) 
 
 <!-- <h3 align="center">I am a coding enthusiast. Who is looking to contribute in open source Java, HTML, JavaScript</h3> -->
 
