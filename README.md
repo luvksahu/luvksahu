@@ -15,9 +15,9 @@
 
 <p align="left"> <a href="https://twitter.com/luv_k_sahu" target="blank"><img src="https://img.shields.io/twitter/follow/luv_k_sahu?logo=twitter&style=for-the-badge" alt="luv_k_sahu" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Android Applications**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Flutter**
 
 <!-- - 👯 I’m looking to collaborate on **Web Development** -->
 
