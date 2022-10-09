@@ -21,7 +21,7 @@
 
 <!-- - 👯 I’m looking to collaborate on **Web Development** -->
 
-- 🤝 I’m looking for help with **DSA**
+- 🤝 I’m looking for help with **Internships**
 
 - 👨‍💻 All of my projects are available at **[Github](https://github.com/luvksahu)**
 
